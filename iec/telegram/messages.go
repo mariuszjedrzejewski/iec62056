@@ -106,13 +106,13 @@ const (
 	StartChar          = byte('/')
 	RequestCommandChar = byte('?')
 	EndChar            = byte('!')
-    SohChar            = byte(0x01)
+	SohChar            = byte(0x01)
 	StxChar            = byte(0x02)
 	EtxChar            = byte(0x03)
-    EotChar            = byte(0x04)
+	EotChar            = byte(0x04)
 	SeqDelChar         = byte('\\')
-    AckChar            = byte(0x06)
-    NackChar           = byte(0x15)
+	AckChar            = byte(0x06)
+	NackChar           = byte(0x15)
 )
 
 // ValidTestDataMessage can be used for testing.
