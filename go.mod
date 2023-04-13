@@ -1,4 +1,4 @@
-module github.com/peterzandbergen/iec62056
+module github.com/mariuszjedrzejewski/iec62056
 
 require (
 	github.com/augustoroman/hexdump v0.0.0-20190827031536-6506f4163e93
