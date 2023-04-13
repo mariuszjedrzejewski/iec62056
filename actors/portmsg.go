@@ -3,7 +3,7 @@ package actors
 import (
 	"log"
 
-	"github.com/peterzandbergen/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/model"
 )
 
 // IecMessageHandler reads a message from the port and stores it in the Repo

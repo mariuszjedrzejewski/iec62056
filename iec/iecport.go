@@ -5,7 +5,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/peterzandbergen/iec62056/iec/telegram"
+	"github.com/mariuszjedrzejewski/iec62056/iec/telegram"
 	"go.bug.st/serial.v1"
 )
 

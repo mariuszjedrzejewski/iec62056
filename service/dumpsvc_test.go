@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/peterzandbergen/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/model"
 )
 
 func TestAllRequest(t *testing.T) {

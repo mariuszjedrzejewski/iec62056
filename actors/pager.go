@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/peterzandbergen/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/model"
 )
 
 type PagerActor struct {

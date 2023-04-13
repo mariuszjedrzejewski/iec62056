@@ -3,7 +3,7 @@ package cache
 import (
 
 	// This project.
-	"github.com/peterzandbergen/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/model"
 
 	// Stdlib
 	"encoding/json"

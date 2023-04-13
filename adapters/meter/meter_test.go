@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/peterzandbergen/iec62056/iec"
+	"github.com/mariuszjedrzejewski/iec62056/iec"
 )
 
 var portSettings = iec.PortSettings{

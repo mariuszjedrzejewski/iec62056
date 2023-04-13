@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/peterzandbergen/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/model"
 )
 
 // JSONTime implements json formatting using the UTC function.

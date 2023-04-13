@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/peterzandbergen/iec62056/actors"
-	"github.com/peterzandbergen/iec62056/adapters/cache"
-	"github.com/peterzandbergen/iec62056/model"
-	"github.com/peterzandbergen/iec62056/service"
+	"github.com/mariuszjedrzejewski/iec62056/actors"
+	"github.com/mariuszjedrzejewski/iec62056/adapters/cache"
+	"github.com/mariuszjedrzejewski/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/service"
 
 	"github.com/spf13/pflag"
 )

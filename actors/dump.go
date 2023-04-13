@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/peterzandbergen/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/model"
 )
 
 // CacheDumper type reads all entries from the Repo and dumps it to the Writer.

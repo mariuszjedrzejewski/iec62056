@@ -6,8 +6,8 @@ package iecstream
 import (
 	"sync"
 
-	"github.com/peterzandbergen/iec62056/iec"
-	"github.com/peterzandbergen/iec62056/model"
+	"github.com/mariuszjedrzejewski/iec62056/iec"
+	"github.com/mariuszjedrzejewski/iec62056/model"
 )
 
 // IecStream type converts the messages from the serial port to Measurements.

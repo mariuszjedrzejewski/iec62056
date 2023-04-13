@@ -12,7 +12,7 @@ import (
 	"github.com/augustoroman/hexdump"
 	"go.bug.st/serial.v1"
 
-	"github.com/peterzandbergen/iec62056/iec/telegram"
+	"github.com/mariuszjedrzejewski/iec62056/iec/telegram"
 )
 
 func readCommands(wg *sync.WaitGroup, in io.Reader, p io.Writer) {

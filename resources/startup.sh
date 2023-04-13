@@ -6,7 +6,7 @@ tar -C /usr/local -xzf /tmp/go.tar.gz && \
 export PATH=$PATH:/usr/local/go/bin && \
 mkdir -p /home/emserver && \
 cd /home/emserver && \
-git clone https://github.com/peterzandbergen/iec62056.git /home/emserver/iec62056 && \
+git clone https://github.com/mariuszjedrzejewski/iec62056.git /home/emserver/iec62056 && \
 cd /home/emserver/iec62056 && \
 git checkout dev/export-via-rest && \
 mkdir -p /home/emserver/emlog-db && \
