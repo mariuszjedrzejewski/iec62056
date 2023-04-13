@@ -499,7 +499,7 @@ func ParseIdentificationMessage(r *bufio.Reader) (*IdentifcationMessage, error) 
 	if b == SeqDelChar {
 		// Read a W
 		b, err = r.ReadByte()
-		if err != nil || b != byte('W') {
+		if err != nil {
 			return nil, ErrFormatError
 		}
 	} else {
